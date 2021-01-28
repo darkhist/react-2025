@@ -21,6 +21,7 @@
   "rules": {
     "arrow-parens": "off",
     "comma-dangle": "off",
+    "no-console": "off",
     "object-curly-newline": "off",
     "react/react-in-jsx-scope": "off",
     "react/jsx-one-expression-per-line": "off",
